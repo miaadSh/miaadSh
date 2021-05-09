@@ -4,6 +4,8 @@
 - 📫 How to reach me: miaad.66@gmail.com
 
 
+![supercipGithub_stat](https://github-readme-stats.vercel.app/api?username=miaadSh&show_icons=true)
+
 <!--
 **miaadSh/miaadSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
